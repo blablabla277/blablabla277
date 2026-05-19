@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=70px&lines=Hola%2C+soy+Full+Stack+Developer;Especializado+en+Ecosistemas+de+IA;Desarrollador+de+Soluciones+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=70px&lines=Hola%2C+soy+Developer+Junior;Especializado+en+Ecosistemas+de+IA;Desarrollador+de+Soluciones+MCP" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
