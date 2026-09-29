@@ -1,72 +1,55 @@
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=70px&lines=Hola%2C+soy+Daniel+Pascual;Full+Stack+Developer+Junior;Especialista+en+MCP+e+IA" alt="Typing SVG" />
+Daniel Pascual Bezanilla
 
-      https://linkedin.com/in/[TU_LINKEDIN]">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
-  📍 Sta. Cruz de Tenerife, España
+Full Stack Developer Junior | Especialista en Model Context Protocol (MCP) e Integración de IA
 
+Desarrollador enfocado en la arquitectura de backend en TypeScript/Python, desarrollo de herramientas MCP para agentes de IA y despliegue autónomo de software en producción.
 
----
+🎯 Perfil y Especialización
 
-## 💫 Sobre Mí
-Soy un Desarrollador Full Stack Junior con experiencia integral en el ciclo de vida del software y despliegue autónomo de aplicaciones en producción[cite: 1]. 
+Especializado en el desarrollo de infraestructura para modelos de inteligencia artificial mediante el estándar Model Context Protocol (MCP), conectando LLMs con bases de datos internas, APIs y sistemas de orquestación en tiempo real.
 
-- 🛠️ Especializado en el desarrollo de servidores y herramientas basadas en Model Context Protocol (MCP) en TypeScript[cite: 1].
-- ⚡ Apasionado por la integración de modelos de inteligencia artificial y machine learning orientados a la optimización logística[cite: 1].
-- 🛰️ Poseo un perfil técnico resolutivo, caracterizado por una alta autonomía para asumir arquitecturas completas y transformar datos complejos en software funcional y mantenible[cite: 1].
+MCP & Agentes de IA: Creación de servidores MCP en TypeScript para permitir que agentes inteligentes interactúen con sistemas del mundo real de forma estructurada y segura.
 
----
+Full Stack & ML: Construcción de interfaces reactivas, arquitecturas backend mediante REST APIs y modelado algorítmico de datos con Python para optimización logística.
 
-## 🚀 Experiencia Destacada: STV
-*Desarrollador Full Stack & Especialista en MCP (Febrero 2026 – Actualidad)*[cite: 1]
+Despliegue & Autonomía: Capacidad demostrada para diseñar, desarrollar y desplegar proyectos end-to-end en entornos de producción.
 
-He llevado sistemas completos a producción sin supervisión, manteniendo un enfoque constante en el rendimiento, el código limpio y el valor operativo[cite: 1].
+💼 Experiencia Relevante
 
-* **Arquitectura y despliegue end-to-end:** Desarrollo autónomo e implementación completa de una solución inteligente para la generación de rutas dinámicas de reposición en máquinas vending[cite: 1].
-* **Desarrollo de MCPs en TypeScript:** Creación y orquestación de servidores y herramientas bajo el protocolo Model Context Protocol (MCP) en TypeScript, conectando modelos y agentes de IA con el sistema de datos e inventario[cite: 1].
-* **Inteligencia Artificial y Optimización de Rutas:** Modelado y procesamiento algorítmico en Python para predecir niveles de stock y optimizar trayectorias de reposición, reduciendo costes y tiempos de desplazamiento[cite: 1].
-* **Frontend reactivo y APIs backend:** Implementación de interfaces interactivas para visualización y gestión logística, conectadas a servicios y endpoints RESTful estructurados y eficientes[cite: 1].
+Desarrollador Full Stack & Especialista en MCP — STV
 
----
+Febrero 2026 – Actualidad | Sta. Cruz de Tenerife
 
-## 🛠️ Stack Tecnológico & Habilidades
+Proyecto enfocado en la optimización inteligente de rutas dinámicas de reposición para máquinas vending:
 
-### 🖥️ Frontend Development
+Servidores MCP en TypeScript: Creación y orquestación de servidores y herramientas basadas en MCP, conectando LLMs y agentes autónomos directamente con el sistema de inventario y datos logísticos.
 
-  
-    
-      Angular & React
-      
-      https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      Creación de interfaces de usuario interactivas utilizando TypeScript, JavaScript (ES6+), HTML5 y CSS3[cite: 1].
-    
-    
-      Backend & APIs
-      
-      https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-      https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      Desarrollo de servicios backend utilizando NestJS, Python y Java (SE/Core) para construir APIs RESTful eficientes y estructuradas[cite: 1].
-    
-  
+Modelado y Algoritmos en Python: Procesamiento de datos y modelos predictivos (Pandas, Scikit-Learn) para la previsión de stock y cálculo de trayectorias óptimas de reposición.
 
+Despliegue End-to-End: Arquitectura, desarrollo e implementación completa del sistema llevado a producción con alta autonomía.
 
-### ⚙️ IA, Datos & Metodologías
-* **IA & Protocolos:** Model Context Protocol (MCP) en TypeScript, e integración de LLMs y agentes[cite: 1].
-* **Datos & Machine Learning:** Uso de Python con bibliotecas como Pandas, NumPy y Scikit-Learn para el modelado algorítmico y visualización de datos[cite: 1].
-* **Herramientas & Entornos:** Gestión de control de versiones con Git y GitHub, junto con experiencia en despliegue continuo y puesta en producción[cite: 1].
-* **Formación:** Titulado en C.F.G.S. en Desarrollo de Aplicaciones Web (DAW)[cite: 1].
+Frontend & Backend API: Desarrollo de interfaces interactivas para visualización logística integradas con endpoints RESTful eficientes.
 
----
+🛠️ Stack Tecnológico
 
-## 📈 Estadísticas de GitHub
+| Categoría | Tecnologías y Herramientas |
+| Ecosistema IA & Protocolos | Model Context Protocol (MCP) (TypeScript), LLM Integration, AI Agents |
+| Backend & APIs | TypeScript, Python, NestJS, Java (Core/SE), RESTful APIs |
+| Data Science & ML | Python (Pandas, NumPy, Scikit-Learn), Visualización de datos |
+| Frontend | React, Angular, JavaScript (ES6+), HTML5, CSS3 |
+| DevOps & Herramientas | Git, GitHub, Puesta en Producción, Despliegue Continuo |
 
+🎓 Formación Académica & Certificaciones
 
-  
-  
+C.F.G.S. en Desarrollo de Aplicaciones Web (DAW) — Formación Profesional Oficial.
 
+Inglés: B1 Preliminary (Cambridge English Certificate).
 
----
+Español: Nativo.
 
+📊 Repositorios y Proyectos Destacados
 
-  https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-  https://forthebadge.com/images/badges/made-with-typescript.svg" alt="Made with TypeScript" />
-  https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
+├── 🤖 MCP-Servers/          # Servidores MCP en TypeScript para la integración de LLMs con APIs
+├── 📦 Logistics-AI-Core/    # Modelos en Python para predicción de stock y optimización de rutas
+└── 💻 Web-Apps/             # Aplicaciones Full Stack desarrolladas con React/Angular y NestJS
+
