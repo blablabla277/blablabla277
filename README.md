@@ -1,78 +1,72 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=70px&lines=Hola%2C+soy+Developer+Junior;Especializado+en+Ecosistemas+de+IA;Desarrollador+de+Soluciones+MCP" alt="Typing SVG" />
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=70px&lines=Hola%2C+soy+Daniel+Pascual;Full+Stack+Developer+Junior;Especialista+en+MCP+e+IA" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://linkedin.com/in/[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:[danielpascualbezanilla@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+      https://linkedin.com/in/[TU_LINKEDIN]">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
+  📍 Sta. Cruz de Tenerife, España
+
 
 ---
 
 ## 💫 Sobre Mí
-Soy un desarrollador enfocado en construir aplicaciones web modernas, robustas y escalables, con una fuerte especialización en la **integración de Modelos de Lenguaje (LLMs)** y automatización mediante arquitecturas de IA de última generación.
+Soy un Desarrollador Full Stack Junior con experiencia integral en el ciclo de vida del software y despliegue autónomo de aplicaciones en producción[cite: 1]. 
 
-- 🛠️ Actualmente optimizando la comunicación entre IA y sistemas de datos.
-- ⚡ Apasionado por el rendimiento en Frontend y la containerización en Backend.
-- 🛰️ Diseñando soluciones que conectan microservicios mediante arquitecturas de APIs internas y externas.
+- 🛠️ Especializado en el desarrollo de servidores y herramientas basadas en Model Context Protocol (MCP) en TypeScript[cite: 1].
+- ⚡ Apasionado por la integración de modelos de inteligencia artificial y machine learning orientados a la optimización logística[cite: 1].
+- 🛰️ Poseo un perfil técnico resolutivo, caracterizado por una alta autonomía para asumir arquitecturas completas y transformar datos complejos en software funcional y mantenible[cite: 1].
 
 ---
 
-## 🚀 Proyecto Destacado: Servidor MCP Personalizado
-*Este es el núcleo de mi portfolio actual. Una infraestructura que extiende las capacidades de los LLMs (como Claude o GPT) interactuando de forma segura con herramientas del mundo real.*
+## 🚀 Experiencia Destacada: STV
+*Desarrollador Full Stack & Especialista en MCP (Febrero 2026 – Actualidad)*[cite: 1]
 
-### 🛠️ [MCP-core-gateway] — Custom MCP Server
-> **Tecnologías:** TypeScript, `@modelcontextprotocol/sdk` v1.x, Node.js, Docker.
+He llevado sistemas completos a producción sin supervisión, manteniendo un enfoque constante en el rendimiento, el código limpio y el valor operativo[cite: 1].
 
-Este repositorio contiene un servidor basado en el estándar **Model Context Protocol (MCP)** que expone herramientas y recursos específicos para agentes de IA:
-
-* **Conexión de APIs:** Diseñado para consumir e integrar flujos de datos desde **APIs externas** de terceros y orquestar llamadas hacia **APIs internas/microservicios** de la empresa de manera asíncrona.
-* **Seguridad y Tipado:** Implementado rigurosamente en **TypeScript** utilizando el último SDK oficial de MCP, garantizando la validación estricta de esquemas y parámetros (`tools` y `resources`).
-* **Listo para Producción:** El proyecto está completamente **containerizado con Docker**, permitiendo un despliegue inmediato y aislado en cualquier entorno local o en la nube.
-
-🔗 **[VER CÓDIGO DEL REPOSITORIO DE MI MCP →](https://github.com/[TU_USUARIO]/[TU_REPOSITORIO_MCP])**
+* **Arquitectura y despliegue end-to-end:** Desarrollo autónomo e implementación completa de una solución inteligente para la generación de rutas dinámicas de reposición en máquinas vending[cite: 1].
+* **Desarrollo de MCPs en TypeScript:** Creación y orquestación de servidores y herramientas bajo el protocolo Model Context Protocol (MCP) en TypeScript, conectando modelos y agentes de IA con el sistema de datos e inventario[cite: 1].
+* **Inteligencia Artificial y Optimización de Rutas:** Modelado y procesamiento algorítmico en Python para predecir niveles de stock y optimizar trayectorias de reposición, reduciendo costes y tiempos de desplazamiento[cite: 1].
+* **Frontend reactivo y APIs backend:** Implementación de interfaces interactivas para visualización y gestión logística, conectadas a servicios y endpoints RESTful estructurados y eficientes[cite: 1].
 
 ---
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
 ### 🖥️ Frontend Development
-<table border="0">
-  <tr>
-    <td width="50%">
-      <strong>Angular</strong>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      <p>Desarrollo de aplicaciones SPA modulares con arquitectura basada en componentes, control estricto de estado (RxJS/Signals) y optimización de renderizado.</p>
-    </td>
-    <td width="50%">
-      <strong>React</strong>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <p>Creación de interfaces de usuario dinámicas y reutilizables mediante Hooks avanzados, Context API y gestión eficiente de renderizados virtuales.</p>
-    </td>
-  </tr>
-</table>
 
-### ⚙️ Backend, APIs & Inteligencia Artificial
-* **Ecosistema de IA:** Desarrollo avanzado empleando el último **SDK de MCP en TypeScript** para la orquestación y desarrollo de agentes inteligentes autónomos.
-* **Integración y Desarrollo de APIs:**
-    * **APIs Internas:** Diseño de endpoints robustos, pasarelas de datos y lógica de negocio optimizada para el consumo interno de la aplicación.
-    * **APIs Externas:** Consumo, normalización de datos y manejo seguro de autenticaciones (OAuth, API Keys) de servicios de terceros.
+  
+    
+      Angular & React
+      
+      https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      Creación de interfaces de usuario interactivas utilizando TypeScript, JavaScript (ES6+), HTML5 y CSS3[cite: 1].
+    
+    
+      Backend & APIs
+      
+      https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      Desarrollo de servicios backend utilizando NestJS, Python y Java (SE/Core) para construir APIs RESTful eficientes y estructuradas[cite: 1].
+    
+  
 
-### 🐋 DevOps & Entornos
-* **Docker:** Nociones sólidas de containerización. Creación de `Dockerfiles` optimizados para entornos de desarrollo y producción, gestión de volúmenes, redes internas y orquestación básica mediante `docker-compose`.
 
----
-
-## 📈 Estadísticas de GitHub (Animadas)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="180px" />
-</div>
+### ⚙️ IA, Datos & Metodologías
+* **IA & Protocolos:** Model Context Protocol (MCP) en TypeScript, e integración de LLMs y agentes[cite: 1].
+* **Datos & Machine Learning:** Uso de Python con bibliotecas como Pandas, NumPy y Scikit-Learn para el modelado algorítmico y visualización de datos[cite: 1].
+* **Herramientas & Entornos:** Gestión de control de versiones con Git y GitHub, junto con experiencia en despliegue continuo y puesta en producción[cite: 1].
+* **Formación:** Titulado en C.F.G.S. en Desarrollo de Aplicaciones Web (DAW)[cite: 1].
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-  <img src="https://forthebadge.com/images/badges/made-with-typescript.svg" alt="Made with TypeScript" />
-</div>
+## 📈 Estadísticas de GitHub
+
+
+  
+  
+
+
+---
+
+
+  https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+  https://forthebadge.com/images/badges/made-with-typescript.svg" alt="Made with TypeScript" />
+  https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
